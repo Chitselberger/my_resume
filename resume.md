@@ -4,7 +4,7 @@ Chris Hitselberger
 ### Senior at Appalachian State University
 
 
-![images/ASU.jpg](/assets/Appalachian_State_Mountaineers_logo.svg)
+![ASU](https://i.pinimg.com/originals/fa/56/61/fa5661e90432fdddf6ceca720a8d2ece.jpg)
 
 ##### GIS Major, Planning Minor in the Department of Geography and Planning
 ###### Boone, North Carolina, USA
